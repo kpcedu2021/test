@@ -1,1 +1,2 @@
-stage1
+stage1 line01
+stage1 line02
